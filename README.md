@@ -35,7 +35,6 @@ defense-garch-backtest/
 └── data/
     ├── all_forecasts.csv       # 10-day forward vol forecasts, all tickers
     ├── forecast_summary.csv    # Summary: avg vol, max vol, signal per ticker
-    └── [TICKER]_garch_vol.csv  # Historical GARCH conditional variance per ticker
 ```
 
 ---
